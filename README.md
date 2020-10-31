@@ -1,5 +1,5 @@
 # Nim
-Nim is a simple strategy game that you can play (using the console) against another player or against AI
+Nim is a simple CLI strategy game that you can play (using the console) against another player or against AI. My first mini project as a coder!
 
 ### What is Nim?
 Nim is a strategy game where two players take turns removing objects from 3 piles. On each turn, a player can remove objects (one to many) from a single pile. The goal of the game is to avoid picking up the last object, as whoever does it the loser! 
